@@ -1,0 +1,26 @@
+{ "name": "fake-nmap",
+  "version": "1.0.0",
+  "description": "Print random nmap-like output with obviously invalid not-IPv4-addresses.",
+  "keywords": [
+    "hacker",
+    "hollywood",
+    "nmap"
+  ],
+
+  "author": "M.K. (https://github.com/mk-pmb)",
+  "homepage": "https://github.com/mk-pmb/fake-nmap-bash/#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mk-pmb/fake-nmap-bash.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mk-pmb/fake-nmap-bash/issues"
+  },
+  "contributors": [],
+
+  "private": true, "license": "GPL-3.0-or-later",
+  "bin": "fake-nmap.sh",
+
+
+  "engines": { "bash": ">=4.0.0" }
+}

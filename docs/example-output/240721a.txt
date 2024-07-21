@@ -1,0 +1,586 @@
+Nmap scan report for 423.173.176.342
+Host is up (0.397s latency).
+Not shown: 993 closed ports
+PORT         STATE SERVICE
+1151/udp     open  unizensus
+1245/tcp     open  isbconference2
+2269/udp     open  mikey
+2756/tcp     open  simplement-tie
+2963/udp     open  iph-policy-adm
+4269/tcp     open  vrml-multi-use
+5725/tcp     open  ms-ilm
+
+Nmap scan report for 648.114.26.286
+Host is up (0.842s latency).
+Not shown: 993 closed ports
+PORT         STATE SERVICE
+59/tcp       open  priv-file
+374/tcp      open  legent-2
+3889/tcp     open  dandv-tester
+4133/udp     open  nuts_bootp
+4357/udp     open  qsnet-cond
+5769/tcp     open  spramsca
+8614/tcp     open  canon-bjnp4
+
+Nmap scan report for 570.9.200.654
+Host is up (0.441s latency).
+Not shown: 991 closed ports
+PORT         STATE SERVICE
+1093/tcp     open  proofd
+1119/udp     open  bnetgame
+1161/tcp     open  health-polling
+1516/udp     open  vpad
+2155/tcp     open  brdptc
+3181/tcp     open  bmcpatrolagent
+4050/udp     open  cisco-wafs
+5117/tcp     open  gradecam
+9600/udp     open  micromuse-ncpw
+
+Nmap scan report for 513.98.7.331
+Host is up (1.126s latency).
+Not shown: 990 closed ports
+PORT         STATE SERVICE
+2/ddp        open  nbp
+199/udp      open  smux
+1307/udp     open  pacmand
+1756/udp     open  capfast-lmd
+2118/udp     open  mentaserver
+2533/tcp     open  snifferserver
+2654/tcp     open  corel_vncadmin
+3474/udp     open  ttntspauto
+3505/tcp     open  ccmcomm
+10000/udp    open  ndmp
+
+Nmap scan report for 448.240.255.790
+Host is up (1.880s latency).
+Not shown: 999 closed ports
+PORT         STATE SERVICE
+2125/tcp     open  lockstep
+
+Nmap scan report for 956.242.41.795
+Host is up (0.195s latency).
+Not shown: 993 closed ports
+PORT         STATE SERVICE
+1207/udp     open  metasage
+1273/tcp     open  emc-gateway
+2382/udp     open  ms-olap3
+2898/udp     open  appliance-cfg
+3325/udp     open  active-net
+4040/udp     open  yo-main
+4240/tcp     open  vrml-multi-use
+
+Nmap scan report for 726.45.84.522
+Host is up (1.545s latency).
+Not shown: 991 closed ports
+PORT         STATE SERVICE
+1213/udp     open  mpc-lifenet
+1976/tcp     open  tcoregagent
+1978/udp     open  unisql
+2530/tcp     open  vrcommerce
+3665/udp     open  ent-engine
+6145/udp     open  statsci2-lm
+8059/tcp     open  senomix08
+9162/tcp     open  apani3
+17756/udp    open  zigbee-ips
+
+Nmap scan report for 810.138.20.623
+Host is up (0.608s latency).
+Not shown: 989 closed ports
+PORT         STATE SERVICE
+355/tcp      open  datex-asn
+369/udp      open  rpc2portmap
+1245/tcp     open  isbconference2
+2107/udp     open  bintec-admin
+3215/tcp     open  jmq-daemon-2
+3297/tcp     open  cytel-lm
+4687/udp     open  nst
+6486/udp     open  sun-sr-iiops
+11430/tcp    open  lsdp
+21846/udp    open  netspeak-is
+44544/tcp    open  domiq
+
+Nmap scan report for 313.47.166.826
+Host is up (0.200s latency).
+Not shown: 992 closed ports
+PORT         STATE SERVICE
+1150/udp     open  blaze
+1967/udp     open  sns-quote
+2089/udp     open  sep
+2330/tcp     open  tscchat
+3144/tcp     open  tarantella
+3649/udp     open  nmmp
+7402/tcp     open  rtps-dd-mt
+17234/tcp    open  integrius-stp
+
+Nmap scan report for 417.250.195.926
+Host is up (0.349s latency).
+Not shown: 995 closed ports
+PORT         STATE SERVICE
+1521/udp     open  ncube-lm
+2855/tcp     open  msrp
+3242/tcp     open  sdp-id-port
+9594/udp     open  msgsys
+16361/tcp    open  netserialext2
+
+Nmap scan report for 400.207.229.505
+Host is up (1.755s latency).
+Not shown: 997 closed ports
+PORT         STATE SERVICE
+1171/udp     open  atc-appserver
+2120/tcp     open  kauth
+2488/udp     open  moy-corp
+
+Nmap scan report for 675.191.59.860
+Host is up (0.723s latency).
+Not shown: 994 closed ports
+PORT         STATE SERVICE
+2065/tcp     open  dlsrpn
+2132/udp     open  solera-epmap
+4231/udp     open  vrml-multi-use
+5051/tcp     open  ida-agent
+7274/tcp     open  oma-rlp-s
+15000/tcp    open  hydap
+
+Nmap scan report for 736.57.171.829
+Host is up (0.590s latency).
+Not shown: 992 closed ports
+PORT         STATE SERVICE
+2721/tcp     open  smart-diagnose
+4072/tcp     open  zieto-sock
+4567/udp     open  tram
+5351/tcp     open  nat-pmp
+5784/udp     open  ibar
+6410/tcp     open  boe-resssvr4
+7073/tcp     open  martalk
+9212/tcp     open  serverviewdbms
+
+Nmap scan report for 517.241.9.789
+Host is up (1.275s latency).
+Not shown: 995 closed ports
+PORT         STATE SERVICE
+133/tcp      open  statsrv
+2368/udp     open  opentable
+6551/tcp     open  sum
+11211/udp    open  memcache
+25902/udp    open  nilinkanalyst
+
+Nmap scan report for 773.101.251.596
+Host is up (0.453s latency).
+Not shown: 996 closed ports
+PORT         STATE SERVICE
+321/tcp      open  pip
+1021/tcp     open  exp1
+4740/udp     open  ipfixs
+5630/udp     open  precise-comm
+
+Nmap scan report for 796.160.166.555
+Host is up (0.048s latency).
+Not shown: 995 closed ports
+PORT         STATE SERVICE
+354/udp      open  bh611
+3703/udp     open  adobeserver-3
+10102/tcp    open  ezproxy-2
+17007/tcp    open  isode-dua
+26262/tcp    open  k3software-svr
+
+Nmap scan report for 646.74.197.302
+Host is up (0.765s latency).
+Not shown: 996 closed ports
+PORT         STATE SERVICE
+2038/udp     open  objectmanager
+3338/udp     open  anet-b
+5047/tcp     open  iscape
+5728/udp     open  io-dist-group
+
+Nmap scan report for 905.227.134.373
+Host is up (0.876s latency).
+Not shown: 992 closed ports
+PORT         STATE SERVICE
+1229/tcp     open  zented
+2043/udp     open  isis-bcast
+2400/tcp     open  opequus-server
+2406/udp     open  jediserver
+3294/tcp     open  fg-gip
+3681/tcp     open  bts-x73
+3689/tcp     open  daap
+7903/tcp     open  tnos-dps
+
+Nmap scan report for 401.77.118.566
+Host is up (0.773s latency).
+Not shown: 994 closed ports
+PORT         STATE SERVICE
+7/sctp       open  echo
+380/udp      open  is99s
+1122/tcp     open  availant-mgr
+2569/udp     open  sonuscallsig
+2574/udp     open  blockade-bpsp
+3834/tcp     open  spectardata
+
+Nmap scan report for 534.33.74.897
+Host is up (1.732s latency).
+Not shown: 996 closed ports
+PORT         STATE SERVICE
+71/tcp       open  netrjs-1
+1863/udp     open  msnp
+2908/udp     open  mao
+3540/udp     open  pnrp-port
+
+Nmap scan report for 626.20.14.409
+Host is up (1.581s latency).
+Not shown: 998 closed ports
+PORT         STATE SERVICE
+1064/udp     open  jstel
+44600/tcp    open  asihpi
+
+Nmap scan report for 646.250.28.570
+Host is up (1.073s latency).
+Not shown: 992 closed ports
+PORT         STATE SERVICE
+1438/udp     open  eicon-server
+1913/tcp     open  armadp
+2421/tcp     open  g-talk
+2554/tcp     open  vcnet-link-v10
+2616/udp     open  appswitch-emp
+3121/tcp     open  pcmk-remote
+3222/tcp     open  glbp
+17225/tcp    open  trdp-md
+
+Nmap scan report for 709.144.55.476
+Host is up (1.116s latency).
+Not shown: 995 closed ports
+PORT         STATE SERVICE
+2871/tcp     open  msi-selectplay
+3394/tcp     open  d2k-tapestry2
+3431/tcp     open  ndl-als
+4236/tcp     open  vrml-multi-use
+8140/tcp     open  puppet
+
+Nmap scan report for 838.192.224.385
+Host is up (1.164s latency).
+Not shown: 995 closed ports
+PORT         STATE SERVICE
+506/udp      open  ohimsrv
+729/udp      open  netviewdm1
+4368/tcp     open  wxbrief
+6027/udp     open  x11
+42510/tcp    open  caerpc
+
+Nmap scan report for 547.63.24.954
+Host is up (1.577s latency).
+Not shown: 993 closed ports
+PORT         STATE SERVICE
+626/tcp      open  apple-imap-admin
+1567/udp     open  jlicelmd
+2272/udp     open  mmcal
+3152/udp     open  feitianrockey
+4403/tcp     open  ds-user
+5152/udp     open  sde-discovery
+7336/tcp     open  swx
+
+Nmap scan report for 825.233.92.496
+Host is up (1.383s latency).
+Not shown: 994 closed ports
+PORT         STATE SERVICE
+682/udp      open  xfr
+2412/tcp     open  cdn
+2653/udp     open  sonus
+2899/udp     open  powergemplus
+4658/udp     open  playsta2-app
+4739/tcp     open  ipfix
+
+Nmap scan report for 424.237.181.650
+Host is up (1.599s latency).
+Not shown: 995 closed ports
+PORT         STATE SERVICE
+398/tcp      open  kryptolan
+525/udp      open  timed
+2085/udp     open  ada-cip
+4405/udp     open  ds-mail
+48003/tcp    open  nimgtw
+
+Nmap scan report for 484.13.62.555
+Host is up (1.480s latency).
+Not shown: 990 closed ports
+PORT         STATE SERVICE
+1934/udp     open  xaapi
+2599/tcp     open  snapd
+2834/udp     open  evtp
+3025/tcp     open  slnp
+5058/tcp     open  locus-disc
+5234/tcp     open  eenet
+6037/tcp     open  x11
+6543/tcp     open  mythtv
+7003/udp     open  afs3-vlserver
+7164/tcp     open  fsr
+
+Nmap scan report for 655.40.85.657
+Host is up (1.543s latency).
+Not shown: 991 closed ports
+PORT         STATE SERVICE
+1452/udp     open  gtegsc-lm
+1682/udp     open  lanyon-lantern
+2150/tcp     open  dynamic3d
+2456/tcp     open  altav-remmgt
+4218/tcp     open  vrml-multi-use
+4323/udp     open  trim-ice
+6066/tcp     open  ewctsp
+7501/tcp     open  ovbus
+8292/tcp     open  blp3
+
+Nmap scan report for 783.18.163.493
+Host is up (0.509s latency).
+Not shown: 990 closed ports
+PORT         STATE SERVICE
+199/tcp      open  smux
+245/udp      open  link
+662/udp      open  pftp
+2001/udp     open  wizard
+2315/udp     open  precise-sft
+2449/udp     open  ratl
+3223/tcp     open  digivote
+3255/udp     open  semaphore
+3864/sctp    open  asap-sctp-tls
+9700/tcp     open  board-roar
+
+Nmap scan report for 519.119.7.916
+Host is up (1.628s latency).
+Not shown: 992 closed ports
+PORT         STATE SERVICE
+400/udp      open  work-sol
+525/tcp      open  timed
+1530/udp     open  rap-service
+2002/tcp     open  globe
+2319/udp     open  infolibria
+3836/udp     open  markem-dcp
+7314/tcp     open  swx
+14001/udp    open  sua
+
+Nmap scan report for 762.255.156.438
+Host is up (1.187s latency).
+Not shown: 994 closed ports
+PORT         STATE SERVICE
+1629/udp     open  lontalk-urgnt
+1702/udp     open  deskshare
+2175/tcp     open  airsync
+3297/tcp     open  cytel-lm
+3775/tcp     open  ispmmgr
+4284/tcp     open  vrml-multi-use
+
+Nmap scan report for 303.136.177.552
+Host is up (0.472s latency).
+Not shown: 998 closed ports
+PORT         STATE SERVICE
+5883/tcp     open  jute
+9279/udp     open  pegasus-ctl
+
+Nmap scan report for 864.62.227.654
+Host is up (0.835s latency).
+Not shown: 995 closed ports
+PORT         STATE SERVICE
+2095/udp     open  nbx-ser
+2838/tcp     open  starbot
+3306/tcp     open  mysql
+8442/tcp     open  cybro-a-bus
+32771/tcp    open  sometimes-rpc5
+
+Nmap scan report for 891.82.20.432
+Host is up (0.303s latency).
+Not shown: 995 closed ports
+PORT         STATE SERVICE
+61/tcp       open  ni-mail
+364/udp      open  aurora-cmgr
+1691/udp     open  empire-empuma
+38201/udp    open  galaxy7-data
+47809/tcp    open  presonus-ucnet
+
+Nmap scan report for 327.176.8.952
+Host is up (0.031s latency).
+Not shown: 994 closed ports
+PORT         STATE SERVICE
+120/tcp      open  cfdptkt
+1474/tcp     open  telefinder
+1747/udp     open  ftrapid-2
+2553/udp     open  efidiningport
+4204/udp     open  vrml-multi-use
+4804/tcp     open  aja-ntv4-disc
+
+Nmap scan report for 573.43.175.514
+Host is up (0.660s latency).
+Not shown: 993 closed ports
+PORT         STATE SERVICE
+104/udp      open  acr-nema
+443/udp      open  https
+1904/tcp     open  fjicl-tep-c
+3292/udp     open  cart-o-rama
+3350/tcp     open  findviatv
+3448/udp     open  dnc-port
+6456/tcp     open  skip-cert-send
+
+Nmap scan report for 492.61.75.930
+Host is up (0.486s latency).
+Not shown: 993 closed ports
+PORT         STATE SERVICE
+627/tcp      open  passgo-tivoli
+633/udp      open  servstat
+2192/tcp     open  asdis
+2605/udp     open  nsc-posa
+7021/tcp     open  dpserveadmin
+9380/tcp     open  boxp
+13820/tcp    open  dsmcc-passthru
+
+Nmap scan report for 616.139.70.702
+Host is up (1.707s latency).
+Not shown: 991 closed ports
+PORT         STATE SERVICE
+345/tcp      open  pawserv
+592/tcp      open  eudora-set
+1347/tcp     open  bbn-mmc
+3721/tcp     open  xsync
+3896/udp     open  sdo-tls
+6056/udp     open  x11
+9306/tcp     open  sphinxql
+21848/udp    open  netspeak-acd
+32787/tcp    open  sometimes-rpc27
+
+Nmap scan report for 829.128.171.457
+Host is up (1.154s latency).
+Not shown: 991 closed ports
+PORT         STATE SERVICE
+2501/tcp     open  rtsclient
+2860/tcp     open  dialpad-voice1
+3757/tcp     open  grf-port
+4603/tcp     open  menandmice-upg
+4914/udp     open  bones
+5413/udp     open  wwiotalk
+5500/udp     open  securid
+9878/tcp     open  kca-service
+16367/tcp    open  netserialext3
+
+Nmap scan report for 510.77.107.823
+Host is up (0.048s latency).
+Not shown: 990 closed ports
+PORT         STATE SERVICE
+349/tcp      open  mftp
+2009/tcp     open  news
+2333/udp     open  snapp
+2645/udp     open  novell-ipx-cmd
+2695/tcp     open  vspread
+3064/tcp     open  dnet-tstproxy
+3168/tcp     open  poweronnud
+7314/udp     open  swx
+18635/tcp    open  rds-ip
+24004/udp    open  med-ovw
+
+Nmap scan report for 574.120.19.929
+Host is up (1.975s latency).
+Not shown: 995 closed ports
+PORT         STATE SERVICE
+99/tcp       open  metagram
+451/tcp      open  sfs-smp-net
+2052/udp     open  clearvisn
+2248/tcp     open  ums
+3737/tcp     open  xpanel
+
+Nmap scan report for 751.175.188.737
+Host is up (0.674s latency).
+Not shown: 992 closed ports
+PORT         STATE SERVICE
+495/tcp      open  intecourier
+950/tcp      open  oftep-rpc
+2238/tcp     open  aviva-sna
+2348/udp     open  redstorm_info
+2816/tcp     open  lbc-watchdog
+4666/udp     open  edonkey
+5282/tcp     open  transmit-port
+22003/tcp    open  optohost003
+
+Nmap scan report for 343.18.208.569
+Host is up (1.246s latency).
+Not shown: 997 closed ports
+PORT         STATE SERVICE
+2259/udp     open  acd-pm
+2292/udp     open  mib-streaming
+6510/tcp     open  mcer-port
+
+Nmap scan report for 912.68.41.676
+Host is up (1.738s latency).
+Not shown: 995 closed ports
+PORT         STATE SERVICE
+493/tcp      open  ticf-2
+685/tcp      open  mdc-portmapper
+4396/tcp     open  fly
+4408/tcp     open  slscc
+5628/udp     open  htrust
+
+Nmap scan report for 262.159.21.734
+Host is up (1.387s latency).
+Not shown: 997 closed ports
+PORT         STATE SERVICE
+3857/udp     open  trap-port
+4670/udp     open  light
+5245/udp     open  downtools-disc
+
+Nmap scan report for 277.159.69.558
+Host is up (0.325s latency).
+Not shown: 992 closed ports
+PORT         STATE SERVICE
+1593/tcp     open  mainsoft-lm
+2748/udp     open  fjippol-polsvr
+2865/tcp     open  pit-vpn
+3530/udp     open  gf
+4121/tcp     open  e-builder
+4236/udp     open  vrml-multi-use
+4899/tcp     open  radmin
+5047/tcp     open  iscape
+
+Nmap scan report for 907.143.116.773
+Host is up (1.150s latency).
+Not shown: 996 closed ports
+PORT         STATE SERVICE
+90/udp       open  dnsix
+1038/tcp     open  mtqp
+1041/udp     open  danf-ak2
+2902/tcp     open  netaspi
+
+Nmap scan report for 547.55.203.858
+Host is up (0.343s latency).
+Not shown: 994 closed ports
+PORT         STATE SERVICE
+416/udp      open  silverplatter
+2145/udp     open  lv-pici
+2233/udp     open  infocrypt
+2379/tcp     open  etcd-client
+9100/udp     open  hp-pdl-datastr
+19541/udp    open  jcp
+
+Nmap scan report for 393.93.160.824
+Host is up (0.855s latency).
+Not shown: 998 closed ports
+PORT         STATE SERVICE
+2030/tcp     open  device2
+5272/udp     open  pk
+
+Nmap scan report for 884.196.46.761
+Host is up (0.929s latency).
+Not shown: 994 closed ports
+PORT         STATE SERVICE
+1507/udp     open  symplex
+3172/udp     open  serverview-rm
+3466/tcp     open  workflow
+4691/udp     open  mtn
+7163/tcp     open  cacsambroker
+8004/tcp     open  p2pevolvenet
+
+Nmap scan report for 947.67.224.411
+Host is up (1.546s latency).
+Not shown: 992 closed ports
+PORT         STATE SERVICE
+164/udp      open  smip-agent
+3537/udp     open  ni-visa-remote
+4395/udp     open  omnivisionesx
+5030/tcp     open  surfpass
+5196/tcp     open  ampl-tableproxy
+9402/udp     open  sec-pc2fax-srv
+10110/tcp    open  nmea-0183
+16001/tcp    open  fmsascon
+
